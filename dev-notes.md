@@ -11,3 +11,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-03 15:05] feat: add retry logic for ArXiv API calls -->
 
 <!-- [2026-05-04 09:09] style: reformat prompt builder for readability -->
+
+<!-- [2026-05-04 17:26] fix: handle empty query edge case gracefully -->
