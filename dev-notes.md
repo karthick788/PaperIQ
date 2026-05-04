@@ -9,3 +9,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-03 11:35] docs: update inline comments in data loader -->
 
 <!-- [2026-05-03 15:05] feat: add retry logic for ArXiv API calls -->
+
+<!-- [2026-05-04 09:09] style: reformat prompt builder for readability -->
