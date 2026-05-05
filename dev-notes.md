@@ -15,3 +15,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-04 17:26] fix: handle empty query edge case gracefully -->
 
 <!-- [2026-05-05 11:06] chore: remove unused imports from llm.py -->
+
+<!-- [2026-05-05 18:55] refactor: simplify LangChain chain construction -->
