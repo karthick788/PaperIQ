@@ -17,3 +17,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-05 11:06] chore: remove unused imports from llm.py -->
 
 <!-- [2026-05-05 18:55] refactor: simplify LangChain chain construction -->
+
+<!-- [2026-05-06 12:44] fix: correct distance threshold validation logic -->
