@@ -21,3 +21,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-06 12:44] fix: correct distance threshold validation logic -->
 
 <!-- [2026-05-06 18:15] feat: persist session state across reruns -->
+
+<!-- [2026-05-07 09:28] docs: improve README setup instructions -->
