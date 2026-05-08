@@ -25,3 +25,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-07 09:28] docs: improve README setup instructions -->
 
 <!-- [2026-05-07 17:33] fix: resolve semantic cache clearing bug -->
+
+<!-- [2026-05-08 09:20] refactor: extract magic numbers to constants.py -->
