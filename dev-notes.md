@@ -27,3 +27,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-07 17:33] fix: resolve semantic cache clearing bug -->
 
 <!-- [2026-05-08 09:20] refactor: extract magic numbers to constants.py -->
+
+<!-- [2026-05-08 13:24] feat: enhance sidebar UI with better labels -->
