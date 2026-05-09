@@ -31,3 +31,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-08 13:24] feat: enhance sidebar UI with better labels -->
 
 <!-- [2026-05-09 09:55] fix: handle PDF parsing errors gracefully -->
+
+<!-- [2026-05-09 14:05] chore: update .gitignore with env file patterns -->
