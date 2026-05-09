@@ -29,3 +29,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-08 09:20] refactor: extract magic numbers to constants.py -->
 
 <!-- [2026-05-08 13:24] feat: enhance sidebar UI with better labels -->
+
+<!-- [2026-05-09 09:55] fix: handle PDF parsing errors gracefully -->
