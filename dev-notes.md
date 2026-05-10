@@ -33,3 +33,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-09 09:55] fix: handle PDF parsing errors gracefully -->
 
 <!-- [2026-05-09 14:05] chore: update .gitignore with env file patterns -->
+
+<!-- [2026-05-10 10:06] style: improve loading spinner message text -->
