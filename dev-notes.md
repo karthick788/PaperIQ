@@ -39,3 +39,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-10 17:34] feat: add paper count input validation -->
 
 <!-- [2026-05-11 10:52] fix: correct Redis connection retry logic -->
+
+<!-- [2026-05-11 14:47] refactor: modularize embedding generation step -->
