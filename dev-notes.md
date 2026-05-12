@@ -43,3 +43,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-11 14:47] refactor: modularize embedding generation step -->
 
 <!-- [2026-05-12 11:34] docs: add docstrings to all QnA module functions -->
+
+<!-- [2026-05-12 17:57] fix: prevent duplicate context document entries -->
