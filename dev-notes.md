@@ -45,3 +45,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-12 11:34] docs: add docstrings to all QnA module functions -->
 
 <!-- [2026-05-12 17:57] fix: prevent duplicate context document entries -->
+
+<!-- [2026-05-13 10:37] feat: log query metadata for debugging purposes -->
