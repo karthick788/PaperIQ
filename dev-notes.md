@@ -47,3 +47,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-12 17:57] fix: prevent duplicate context document entries -->
 
 <!-- [2026-05-13 10:37] feat: log query metadata for debugging purposes -->
+
+<!-- [2026-05-13 16:44] chore: pin dependency versions in requirements.txt -->
