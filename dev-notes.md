@@ -49,3 +49,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-13 10:37] feat: log query metadata for debugging purposes -->
 
 <!-- [2026-05-13 16:44] chore: pin dependency versions in requirements.txt -->
+
+<!-- [2026-05-14 12:48] fix: handle ArXiv API timeout errors properly -->
