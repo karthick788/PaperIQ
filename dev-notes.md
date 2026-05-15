@@ -53,3 +53,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-14 12:48] fix: handle ArXiv API timeout errors properly -->
 
 <!-- [2026-05-14 14:34] refactor: improve vectorstore cleanup on reset -->
+
+<!-- [2026-05-15 11:21] style: consistent formatting across app.py -->
