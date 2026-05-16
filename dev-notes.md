@@ -57,3 +57,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-15 11:21] style: consistent formatting across app.py -->
 
 <!-- [2026-05-15 17:53] feat: display paper titles in context expander -->
+
+<!-- [2026-05-16 12:51] fix: fix session state initialization order bug -->
