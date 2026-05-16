@@ -59,3 +59,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-15 17:53] feat: display paper titles in context expander -->
 
 <!-- [2026-05-16 12:51] fix: fix session state initialization order bug -->
+
+<!-- [2026-05-16 15:34] docs: document all required environment variables -->
