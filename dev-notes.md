@@ -63,3 +63,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-16 15:34] docs: document all required environment variables -->
 
 <!-- [2026-05-17 11:25] refactor: move prompt templates to prompt.py -->
+
+<!-- [2026-05-17 16:33] fix: improve semantic cache hit rate for queries -->
