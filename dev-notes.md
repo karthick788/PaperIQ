@@ -65,3 +65,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-17 11:25] refactor: move prompt templates to prompt.py -->
 
 <!-- [2026-05-17 16:33] fix: improve semantic cache hit rate for queries -->
+
+<!-- [2026-05-18 09:38] feat: add collapsible context expander section -->
