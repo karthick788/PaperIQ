@@ -71,3 +71,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-18 15:54] chore: add dev-notes file for tracking progress -->
 
 <!-- [2026-05-19 12:41] fix: sanitize user query input before processing -->
+
+<!-- [2026-05-19 15:05] refactor: simplify chat message state handling -->
