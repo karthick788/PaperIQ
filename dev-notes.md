@@ -73,3 +73,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-19 12:41] fix: sanitize user query input before processing -->
 
 <!-- [2026-05-19 15:05] refactor: simplify chat message state handling -->
+
+<!-- [2026-05-20 10:28] feat: show progress indicator while indexing papers -->
