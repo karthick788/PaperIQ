@@ -77,3 +77,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-20 10:28] feat: show progress indicator while indexing papers -->
 
 <!-- [2026-05-20 15:26] fix: resolve Docker entrypoint permission issue -->
+
+<!-- [2026-05-21 11:34] docs: update architecture diagram description -->
