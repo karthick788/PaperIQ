@@ -83,3 +83,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-21 14:49] chore: clean up leftover temp and cache files -->
 
 <!-- [2026-05-22 12:21] fix: correct token limit calculation in LLM -->
+
+<!-- [2026-05-22 16:08] feat: improve chat message markdown formatting -->
