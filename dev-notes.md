@@ -81,3 +81,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-21 11:34] docs: update architecture diagram description -->
 
 <!-- [2026-05-21 14:49] chore: clean up leftover temp and cache files -->
+
+<!-- [2026-05-22 12:21] fix: correct token limit calculation in LLM -->
