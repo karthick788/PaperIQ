@@ -87,3 +87,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-22 16:08] feat: improve chat message markdown formatting -->
 
 <!-- [2026-05-23 10:37] refactor: optimize document chunking strategy -->
+
+<!-- [2026-05-23 17:23] fix: handle network interruption during indexing -->
