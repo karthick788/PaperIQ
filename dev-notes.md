@@ -91,3 +91,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-23 17:23] fix: handle network interruption during indexing -->
 
 <!-- [2026-05-24 11:29] style: update action button labels in sidebar -->
+
+<!-- [2026-05-24 16:06] feat: add debug logging toggle via env variable -->
