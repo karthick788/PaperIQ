@@ -95,3 +95,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-24 16:06] feat: add debug logging toggle via env variable -->
 
 <!-- [2026-05-25 12:36] fix: resolve embedding dimension mismatch error -->
+
+<!-- [2026-05-25 18:33] chore: bump GitHub Actions workflow versions -->
