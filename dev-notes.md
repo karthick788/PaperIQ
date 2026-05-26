@@ -99,3 +99,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-25 18:33] chore: bump GitHub Actions workflow versions -->
 
 <!-- [2026-05-26 12:28] refactor: consolidate Redis client setup logic -->
+
+<!-- [2026-05-26 16:03] docs: clarify RAG pipeline in README -->
