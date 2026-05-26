@@ -97,3 +97,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-25 12:36] fix: resolve embedding dimension mismatch error -->
 
 <!-- [2026-05-25 18:33] chore: bump GitHub Actions workflow versions -->
+
+<!-- [2026-05-26 12:28] refactor: consolidate Redis client setup logic -->
