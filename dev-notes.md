@@ -103,3 +103,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-26 16:03] docs: clarify RAG pipeline in README -->
 
 <!-- [2026-05-27 12:47] fix: prevent null pointer when chain result empty -->
+
+<!-- [2026-05-27 16:34] feat: track and display query response times -->
