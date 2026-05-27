@@ -101,3 +101,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-26 12:28] refactor: consolidate Redis client setup logic -->
 
 <!-- [2026-05-26 16:03] docs: clarify RAG pipeline in README -->
+
+<!-- [2026-05-27 12:47] fix: prevent null pointer when chain result empty -->
