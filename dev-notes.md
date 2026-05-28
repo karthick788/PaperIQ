@@ -107,3 +107,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-27 16:34] feat: track and display query response times -->
 
 <!-- [2026-05-28 10:30] refactor: improve organization of constants.py -->
+
+<!-- [2026-05-28 14:19] fix: correct assistant avatar image path -->
