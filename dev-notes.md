@@ -111,3 +111,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-28 14:19] fix: correct assistant avatar image path -->
 
 <!-- [2026-05-29 11:11] style: improve code readability in db.py module -->
+
+<!-- [2026-05-29 16:39] feat: enforce maximum paper count limit of 50 -->
