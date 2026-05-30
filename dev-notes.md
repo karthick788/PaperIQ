@@ -115,3 +115,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-29 16:39] feat: enforce maximum paper count limit of 50 -->
 
 <!-- [2026-05-30 09:46] docs: add troubleshooting section to README -->
+
+<!-- [2026-05-30 14:31] fix: handle expired Redis index on app restart -->
