@@ -113,3 +113,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-29 11:11] style: improve code readability in db.py module -->
 
 <!-- [2026-05-29 16:39] feat: enforce maximum paper count limit of 50 -->
+
+<!-- [2026-05-30 09:46] docs: add troubleshooting section to README -->
