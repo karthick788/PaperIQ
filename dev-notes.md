@@ -119,3 +119,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-30 14:31] fix: handle expired Redis index on app restart -->
 
 <!-- [2026-05-31 10:52] refactor: decouple LLM config from chain logic -->
+
+<!-- [2026-05-31 13:16] chore: validate .env keys on application startup -->
