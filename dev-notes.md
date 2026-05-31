@@ -117,3 +117,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-30 09:46] docs: add troubleshooting section to README -->
 
 <!-- [2026-05-30 14:31] fix: handle expired Redis index on app restart -->
+
+<!-- [2026-05-31 10:52] refactor: decouple LLM config from chain logic -->
