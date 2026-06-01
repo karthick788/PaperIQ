@@ -123,3 +123,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-05-31 13:16] chore: validate .env keys on application startup -->
 
 <!-- [2026-06-01 09:25] fix: improve sidebar widget state persistence -->
+
+<!-- [2026-06-01 17:13] feat: show source document metadata in response -->
