@@ -127,3 +127,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-01 17:13] feat: show source document metadata in response -->
 
 <!-- [2026-06-02 12:51] refactor: clean up qna module file structure -->
+
+<!-- [2026-06-02 15:25] fix: resolve Streamlit widget re-render issue -->
