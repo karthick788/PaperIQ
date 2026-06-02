@@ -125,3 +125,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-01 09:25] fix: improve sidebar widget state persistence -->
 
 <!-- [2026-06-01 17:13] feat: show source document metadata in response -->
+
+<!-- [2026-06-02 12:51] refactor: clean up qna module file structure -->
