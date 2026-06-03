@@ -131,3 +131,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-02 15:25] fix: resolve Streamlit widget re-render issue -->
 
 <!-- [2026-06-03 11:17] docs: update Docker Compose usage instructions -->
+
+<!-- [2026-06-03 17:39] chore: remove leftover debug print statements -->
