@@ -133,3 +133,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-03 11:17] docs: update Docker Compose usage instructions -->
 
 <!-- [2026-06-03 17:39] chore: remove leftover debug print statements -->
+
+<!-- [2026-06-04 09:44] fix: handle context window overflow gracefully -->
