@@ -139,3 +139,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-04 16:37] feat: improve topic area input placeholder text -->
 
 <!-- [2026-06-05 09:53] refactor: optimize Redis vector search query -->
+
+<!-- [2026-06-05 17:56] fix: handle missing OPENAI_API_KEY with clear error -->
