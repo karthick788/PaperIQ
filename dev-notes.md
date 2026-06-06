@@ -143,3 +143,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-05 17:56] fix: handle missing OPENAI_API_KEY with clear error -->
 
 <!-- [2026-06-06 10:26] style: consistent indentation in prompt templates -->
+
+<!-- [2026-06-06 14:44] feat: improve topic input validation on submit -->
