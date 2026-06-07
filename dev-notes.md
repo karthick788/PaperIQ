@@ -145,3 +145,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-06 10:26] style: consistent indentation in prompt templates -->
 
 <!-- [2026-06-06 14:44] feat: improve topic input validation on submit -->
+
+<!-- [2026-06-07 10:13] docs: document Redis index schema and fields -->
