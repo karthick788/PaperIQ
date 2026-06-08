@@ -151,3 +151,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-07 17:47] fix: prevent memory growth during long sessions -->
 
 <!-- [2026-06-08 11:17] refactor: simplify ArXiv document loading pipeline -->
+
+<!-- [2026-06-08 14:10] chore: update container image source label -->
