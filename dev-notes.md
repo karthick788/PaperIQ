@@ -149,3 +149,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-07 10:13] docs: document Redis index schema and fields -->
 
 <!-- [2026-06-07 17:47] fix: prevent memory growth during long sessions -->
+
+<!-- [2026-06-08 11:17] refactor: simplify ArXiv document loading pipeline -->
