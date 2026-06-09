@@ -153,3 +153,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-08 11:17] refactor: simplify ArXiv document loading pipeline -->
 
 <!-- [2026-06-08 14:10] chore: update container image source label -->
+
+<!-- [2026-06-09 10:15] fix: correct file path handling in Dockerfile -->
