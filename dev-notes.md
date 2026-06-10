@@ -159,3 +159,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-09 16:17] feat: groundwork for multi-topic session support -->
 
 <!-- [2026-06-10 11:35] refactor: improve system prompt formatting -->
+
+<!-- [2026-06-10 18:33] fix: handle LLM rate limit errors with backoff -->
