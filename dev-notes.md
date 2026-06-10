@@ -157,3 +157,5 @@ This file tracks incremental development progress and changes.
 <!-- [2026-06-09 10:15] fix: correct file path handling in Dockerfile -->
 
 <!-- [2026-06-09 16:17] feat: groundwork for multi-topic session support -->
+
+<!-- [2026-06-10 11:35] refactor: improve system prompt formatting -->
