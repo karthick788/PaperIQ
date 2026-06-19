@@ -1,8 +1,3 @@
-
-<div align="center">
-    <a href="https://github.com/karthick788/PaperIQ"><img src="./app/assets/arxivguru_crop.png" width="30%"><img></a>
-</div>
-
 # PaperIQ: Exploring Conversational Scientific Literature 📖
 
 Welcome to **PaperIQ**. This tool harnesses LangChain and Redis to make ArXiv's vast collection of scientific papers more interactive. Through this approach, we aim to make accessing and understanding research easier and more engaging, and also to teach about how Retrieval Augmented Generation (RAG) systems work.
