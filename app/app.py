@@ -100,7 +100,7 @@ try:
 
     col1, col2 = st.columns(2)
     with col1:
-        st.title("Arxiv ChatGuru")
+        st.title("PaperIQ")
         st.write("**Put in a topic area and a question within that area to get an answer!**")
         topic = st.text_input("Topic Area", key="arxiv_topic")
         papers = st.number_input("Number of Papers", key="num_papers", value=10, min_value=1, max_value=50, step=2)
